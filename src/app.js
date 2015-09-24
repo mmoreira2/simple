@@ -1,5 +1,6 @@
 /*teste 1 */
 /*teste 2*/
+/*teste 3*/
 
 var global = {};
 var gconfig = null;
