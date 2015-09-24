@@ -1,3 +1,5 @@
+/*teste 1 */
+
 var global = {};
 var gconfig = null;
 var repo = null;
